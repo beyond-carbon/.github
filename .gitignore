@@ -1,3 +1,11 @@
+# Big data directories
+.github/Cleaned_Data/
 .github/foraging_in_the_orchard/
-.github/multi_storied_forest/
-.github/mekar_raya_gis_data
+mekar_raya_gis_data/
+multi_storied_forest/
+
+# File types to ignore
+*.tif
+*.nc4
+*.mp4
+*.pth
